@@ -1,0 +1,54 @@
+﻿<Fluent:RibbonWindow x:Class="WpfApplication5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Fluent="clr-namespace:Fluent;assembly=Fluent"
+        Title="MainWindow" Height="725.435" Width="1313.925">
+
+    <Grid Margin="0,0,184,218">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="652*"/>
+            <ColumnDefinition Width="618*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1277*"/>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="318*"/>
+        </Grid.RowDefinitions>
+        <Fluent:Ribbon Height="141" Grid.ColumnSpan="3" Margin="10,10,50,0">
+            <!--Backstage-->
+            <Fluent:Ribbon.Menu>
+                <Fluent:Backstage>
+                    <Fluent:BackstageTabControl>
+
+                        <Fluent:BackstageTabItem Header="Закрыть" MouseDoubleClick="BackstageTabItem_MouseDoubleClick"/>
+
+                    </Fluent:BackstageTabControl>
+                </Fluent:Backstage>
+            </Fluent:Ribbon.Menu>
+            <!--Tabs-->
+            <Fluent:RibbonTabItem Header="Главная вкладка">
+
+                <Fluent:RibbonGroupBox  Header="Буфер обмена" Height="84" Width="232">
+                    <Fluent:Button  Header="Вставить" Command="Paste" Height="74" Width="56"/>
+                    <Fluent:Button Header="Вырезать" Command="Cut"/>
+                    <Fluent:Button Header="Копировать" Command="Copy"/>
+                </Fluent:RibbonGroupBox>
+
+            </Fluent:RibbonTabItem>
+            <Fluent:RibbonTabItem Header="Список тегов">
+                <Fluent:RibbonGroupBox>
+                    <Fluent:ComboBox x:Name="Tags" IsEditable="False" Width="200"  IsReadOnly="True" DropDownClosed="Tags_DropDownClosed"/>
+                </Fluent:RibbonGroupBox>
+            </Fluent:RibbonTabItem>
+        </Fluent:Ribbon>
+        <DataGrid x:Name="Table1" AutoGenerateColumns="False" DataContext="{Binding Source=dataTable}" Margin="10,60,-183.712,-221" SelectionChanged="Table1_SelectionChanged"  Grid.RowSpan="3" Grid.ColumnSpan="3">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ГОСТ" Width="120" Binding="{Binding Path=X}"/>
+                <DataGridTextColumn Header="НАЗВАНИЕ" Width="1*" Binding="{Binding Path=K}"/>
+                <DataGridTextColumn Header="ГОД" Width="80" Binding="{Binding Path=A}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <WebBrowser x:Name="wrt"  HorizontalAlignment="Stretch" Margin="10,316,-183.712,-207" VerticalAlignment="Stretch" Grid.RowSpan="3" Grid.ColumnSpan="3"/>
+    </Grid>
+</Fluent:RibbonWindow>

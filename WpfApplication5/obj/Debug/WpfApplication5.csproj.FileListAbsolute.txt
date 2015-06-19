@@ -1,0 +1,72 @@
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe.config
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.baml
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\App.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5_MarkupCompile.cache
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.g.resources
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.Properties.Resources.resources
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csproj.GenerateResource.Cache
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.pdb
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.exe
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.pdb
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\bin\Debug\Fluent.dll
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\bin\Debug\Fluent.pdb
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\bin\Debug\Fluent.xml
+C:\Users\Алёна\Documents\Visual Studio 2013\Projects\WpfApplication5\WpfApplication5\obj\Debug\App.baml
+F:\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe.config
+F:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.exe
+F:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.pdb
+F:\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe
+F:\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.pdb
+F:\WpfApplication5\WpfApplication5\bin\Debug\Fluent.dll
+F:\WpfApplication5\WpfApplication5\bin\Debug\System.Windows.Interactivity.dll
+F:\WpfApplication5\WpfApplication5\bin\Debug\Fluent.pdb
+F:\WpfApplication5\WpfApplication5\bin\Debug\Fluent.xml
+F:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csprojResolveAssemblyReference.cache
+F:\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.baml
+F:\WpfApplication5\WpfApplication5\obj\Debug\App.baml
+F:\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.g.cs
+F:\WpfApplication5\WpfApplication5\obj\Debug\App.g.cs
+F:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5_MarkupCompile.cache
+F:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.g.resources
+F:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.Properties.Resources.resources
+F:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csproj.GenerateResource.Cache
+E:\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe.config
+E:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.exe
+E:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.pdb
+E:\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe
+E:\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.pdb
+E:\WpfApplication5\WpfApplication5\bin\Debug\Fluent.dll
+E:\WpfApplication5\WpfApplication5\bin\Debug\System.Windows.Interactivity.dll
+E:\WpfApplication5\WpfApplication5\bin\Debug\Fluent.pdb
+E:\WpfApplication5\WpfApplication5\bin\Debug\Fluent.xml
+E:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csprojResolveAssemblyReference.cache
+E:\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.baml
+E:\WpfApplication5\WpfApplication5\obj\Debug\App.baml
+E:\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.g.cs
+E:\WpfApplication5\WpfApplication5\obj\Debug\App.g.cs
+E:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5_MarkupCompile.cache
+E:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.g.resources
+E:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.Properties.Resources.resources
+E:\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csproj.GenerateResource.Cache
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe.config
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.exe
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.pdb
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.pdb
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\bin\Debug\Fluent.dll
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\bin\Debug\Fluent.pdb
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\bin\Debug\Fluent.xml
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.baml
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\App.baml
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.g.cs
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\App.g.cs
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5_MarkupCompile.cache
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.g.resources
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.Properties.Resources.resources
+C:\Users\Алёна\Desktop\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csproj.GenerateResource.Cache
